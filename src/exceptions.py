@@ -24,5 +24,5 @@ class CustomException(Exception):
 #     try:
 #         a = 1/0
 #     except Exception as e:
-#         raise CustomException(e,sys)
 #         logging.info("ERROR cant divide by ZEro")
+#         raise CustomException(e,sys)
