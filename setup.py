@@ -17,6 +17,7 @@ def get_requirements(file_path:str)->List:
         if HYPEN_E_DOT in requirements:
             requirements.remove(HYPEN_E_DOT)
     return requirements
+
 setup(
 name = 'MLPROJECT',
 version = '0.0.1',

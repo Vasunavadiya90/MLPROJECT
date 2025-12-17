@@ -8,5 +8,9 @@ xgboost
 Flask
 Fastapi
 dill
+setuptools
+streamlit
+requests
+uvicorn 
 
 -e .
